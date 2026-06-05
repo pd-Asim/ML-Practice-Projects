@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pandas-Asim-netizen&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=pd-Asim&color=6C63FF&style=for-the-badge)
 
 </div>
 
@@ -18,8 +18,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pandas-Asim-netizen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandas-Asim-netizen&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pd-Asim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pd-Asim&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandas-Asim-netizen&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd-Asim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandas-Asim-netizen&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pd-Asim&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
